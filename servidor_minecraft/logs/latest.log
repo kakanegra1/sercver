@@ -198,3 +198,9 @@ Please change the value manually to get rid of this message
 [21:14:41] [Server thread/INFO]: [AngelChest] 
 [21:14:41] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [21:14:41] [Server thread/INFO]: [AngelChest] ========================================================
+[21:32:01] [Server thread/INFO]: The plugin has been reloaded successfully
+[21:34:50] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[21:34:50] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[21:34:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[21:34:51] [Server thread/INFO]: .Spbstrome17 joined the game
+[21:34:51] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 110 at ([world]66.629486, 72.0, 115.47177)

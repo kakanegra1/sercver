@@ -23,21 +23,19 @@ settings:
   mode: NORMAL
   scoreboard-interval-update: 20
   scoreboard:
-    title: '&b&lSternal&f&lBoard'
+    title: '§x§0§0§4§4§F§D§lS§x§0§0§4§4§F§D§lU§x§0§3§8§0§F§A§lR§x§0§6§B§C§F§6§lV§x§0§9§8§0§D§B§lI§x§0§C§4§4§B§F§lV§x§1§D§3§6§C§C§lA§x§2§E§2§9§D§9§lL§x§3§E§1§B§E§5§l_§x§4§F§0§E§F§2§lM§x§6§0§0§0§F§F§lC'
     lines:
-      - '&8&m+-------------------+'
       - ''
-      - '&a&l▼ &bData:'
-      - '&f● &7Nick: &b%player_name%'
-      - '&f● &7Rank: &b%vault_rank%'
-      - '&f● &7Coins: &e%vault_eco_balance_formatted%'
+      - '&a&l▼ &3Datos del jugador:'
       - ''
-      - '&a&l▼ &bExample:'
-      - '&f● &7Lobby: &b#1'
+      - '&f●☯&7Nick: &b%player_name%'
+      - '&f●☪&7Rank: &b%vault_rank%'
+      - '&f●⛃&7Coins: &e%vault_eco_balance_formatted%'
+      - ''
+      - '&a&l▼ &3Inf adicional:'
+      - '&f● &7Mundo: &b#1'
       - '&f● &7Ping: &b%player_ping%'
-      - '&f● &7Players: &b%bungee_total%'
-      - ''
-      - '&f● &fIP: &bplay.yournetwork.com'
+
 
   #Option to disable some scoreboards from worlds
   world-blacklist:
