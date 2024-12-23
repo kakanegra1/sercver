@@ -1,210 +1,176 @@
-[21:14:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[21:14:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[21:14:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:14:03] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/BetterRTP-3.6.13.jar'...
-[21:14:03] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/EconomyShopGUI-6.10.1.jar'...
-[21:14:03] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
-[21:14:03] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SternalBoard-2.3.0-all.jar'...
-[21:14:03] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SternalBoard-2.3.0-all.jar' in 687ms.
-[21:14:03] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/AngelChest-13.9.0.jar'...
-[21:14:03] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 836ms.
-[21:14:03] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/PlaceholderAPI-2.11.6.jar'...
-[21:14:04] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BetterRTP-3.6.13.jar' in 963ms.
-[21:14:04] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/multiverse-core-4.3.14.jar'...
-[21:14:04] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/multiverse-core-4.3.14.jar' in 481ms.
-[21:14:04] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/EconomyShopGUI-6.10.1.jar' in 1495ms.
-[21:14:04] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/PlaceholderAPI-2.11.6.jar' in 666ms.
-[21:14:05] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AngelChest-13.9.0.jar' in 1208ms.
-[21:14:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 11 plugins
-[21:14:05] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[00:27:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[00:27:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[00:27:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:27:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 11 plugins
+[00:27:44] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - EconomyShopGUI (6.10.1)
-[21:14:05] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+[00:27:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
  - AngelChest (13.9.0), BetterRTP (3.6.13), Chunky (1.4.28), Geyser-Spigot (2.6.0-SNAPSHOT), Multiverse-Core (4.3.14), PlaceholderAPI (2.11.6), SternalBoard (2.3.0), Vault (1.7.3-b131), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[21:14:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:14:11] [ServerMain/INFO]: Loaded 1290 recipes
-[21:14:12] [ServerMain/INFO]: Loaded 1399 advancements
-[21:14:12] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:14:12] [Server thread/INFO]: Loading properties
-[21:14:12] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[21:14:13] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:14:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:14:13] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:14:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:14:14] [Server thread/INFO]: Default game type: SURVIVAL
-[21:14:14] [Server thread/INFO]: Generating keypair
-[21:14:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:14:14] [Server thread/INFO]: Using epoll channel type
-[21:14:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:14:14] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:14:15] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[21:14:15] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[21:14:17] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[21:14:17] [Server thread/INFO]: [floodgate] Took 1,986ms to boot Floodgate
-[21:14:17] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
-[21:14:17] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
-[21:14:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[21:14:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:14:20] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.14
-[21:14:20] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[21:14:20] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[21:14:22] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[21:14:22] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[21:14:22] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
-[21:14:22] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
-[21:14:22] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.1
-[21:14:22] [Server thread/INFO]: [BetterRTP] Loading server plugin BetterRTP v3.6.13
-[21:14:22] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
-[21:14:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:14:22] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[21:14:22] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[21:14:22] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[21:14:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:14:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:14:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:14:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:14:22] [Server thread/INFO]: Preparing level "world"
-[21:14:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:14:23] [Server thread/INFO]: Time elapsed: 1035 ms
-[21:14:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:14:24] [Server thread/INFO]: Time elapsed: 254 ms
-[21:14:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:14:24] [Server thread/INFO]: Time elapsed: 131 ms
-[21:14:24] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[21:14:25] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
-[21:14:25] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[21:14:25] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
-[21:14:25] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[21:14:25] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[21:14:25] [Server thread/WARN]: [Multiverse-Core] Cannot load worlds.yml
-[21:14:25] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -7223599738795568321
-[21:14:26] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -7223599738795568321
-[21:14:26] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[21:14:26] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 88 Z: 0 P: 0 Y: 0 
-[21:14:26] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_nether' is located at: world_nether:2.50,88.00,3.50:0.00:0.00
-[21:14:26] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -7223599738795568321
-[21:14:26] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[21:14:26] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 88 Z: 0 P: 0 Y: 0 
-[21:14:26] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_the_end' is located at: world_the_end:0.00,68.00,0.00:0.00:0.00
-[21:14:26] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
-[21:14:26] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[21:14:26] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[21:14:26] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[21:14:26] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[21:14:26] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[21:14:27] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
-[21:14:27] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[21:14:27] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[21:14:27] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[21:14:27] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[21:14:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
-[21:14:27] [Server thread/INFO]: [AngelChest] No EconomyServiceProvider found, disabling economy functions.
-[21:14:28] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[21:14:28] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
-[21:14:28] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-legacy/4.17.0/adventure-text-serializer-legacy-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm/9.2/asm-9.2.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/me/lucko/jar-relocator/1.7/jar-relocator-1.7.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-legacy-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-plain/4.17.0/adventure-text-serializer-plain-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-plain-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json/4.17.0/adventure-text-serializer-json-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-json-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-ansi/4.17.0/adventure-text-serializer-ansi-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-ansi-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson/4.17.0/adventure-text-serializer-gson-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-gson-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-nbt/4.17.0/adventure-nbt-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-nbt-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json-legacy-impl/4.17.0/adventure-text-serializer-json-legacy-impl-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-json-legacy-impl-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.17.0/adventure-text-serializer-gson-legacy-impl-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-gson-legacy-impl-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-minimessage-4.17.0.jar
-[21:14:28] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
-[21:14:28] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-api-4.17.0.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Loading library examination-api
-[21:14:29] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Relocations applied to examination-api-1.3.0.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
-[21:14:29] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-api-4.3.3.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
-[21:14:29] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-bukkit-4.3.3.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
-[21:14:29] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-facet-4.3.3.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
-[21:14:29] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[21:14:29] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-key-4.17.0.jar
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.1
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: Found incompatible component tag for current minecraft version: Did you mean 'repair_cost' instead of 'RepairCost'?
-Please change the value manually to get rid of this message
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Default shops layout compatible with 121 created at /workspaces/sercver/servidor_minecraft/plugins/EconomyShopGUI/shops
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [WARN]: Failed to load default economy provider with reason 'No supported economy provider for Vault detected, please install a plugin such as Essentials', trying to automatically find supported economy provider
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Detected Vault, initializing...
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [WARN]: ===================================================
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [WARN]:  
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [WARN]: Failed to automatically load an available economy provider, this plugin requires one, disabling...
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [WARN]: See a list of available economy providers on our wiki here: https://wiki.gpplugins.com/economyshopgui/file-configuration/config.yml#economy-provider
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [WARN]:  
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] [WARN]: ===================================================
-[21:14:29] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.1
-[21:14:29] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.6.13
-[21:14:29] [Server thread/INFO]: [BetterRTP] Cooldown = 600
-[21:14:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betterrtp [3.6.13]
-[21:14:30] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
-[21:14:30] [Server thread/INFO]: [spark] Starting background profiler...
-[21:14:30] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[21:14:30] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[21:14:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:14:30] [Server thread/INFO]: [Geyser-Spigot] 
-[21:14:30] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b735 (git-master-006fe75)
-[21:14:30] [Server thread/INFO]: [Geyser-Spigot] 
-[21:14:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:14:38] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2862
-[21:14:38] [Server thread/INFO]: [Geyser-Spigot] Done (7.454s)! Run /geyser help for help!
-[21:14:38] [Server thread/INFO]: Done preparing level "world" (16.033s)
-[21:14:38] [Server thread/INFO]: Running delayed init tasks
-[21:14:38] [Server thread/INFO]: Done (37.001s)! For help, type "help"
-[21:14:38] [Server thread/INFO]: Timings Reset
-[21:14:38] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[21:14:38] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
-[21:14:38] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
-[21:14:41] [Server thread/INFO]: [AngelChest] ========================================================
-[21:14:41] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[21:14:41] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[21:14:41] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[21:14:41] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[21:14:41] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[21:14:41] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[21:14:41] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[21:14:41] [Server thread/INFO]: [AngelChest] 
-[21:14:41] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[21:14:41] [Server thread/INFO]: [AngelChest] ========================================================
-[21:32:01] [Server thread/INFO]: The plugin has been reloaded successfully
-[21:34:50] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
-[21:34:50] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
-[21:34:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
-[21:34:51] [Server thread/INFO]: .Spbstrome17 joined the game
-[21:34:51] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 110 at ([world]66.629486, 72.0, 115.47177)
-[21:36:15] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client timed out
-[21:36:15] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
-[21:36:15] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
-[21:36:15] [Server thread/INFO]: .Spbstrome17 left the game
+[00:27:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:27:50] [ServerMain/INFO]: Loaded 1290 recipes
+[00:27:50] [ServerMain/INFO]: Loaded 1399 advancements
+[00:27:50] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:27:50] [Server thread/INFO]: Loading properties
+[00:27:50] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[00:27:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:27:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:27:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:27:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[00:27:52] [Server thread/INFO]: Default game type: SURVIVAL
+[00:27:52] [Server thread/INFO]: Generating keypair
+[00:27:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:27:52] [Server thread/INFO]: Using epoll channel type
+[00:27:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:27:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:27:54] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[00:27:54] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:27:56] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[00:27:56] [Server thread/INFO]: [floodgate] Took 1,935ms to boot Floodgate
+[00:27:56] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[00:27:56] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[00:27:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:27:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:27:58] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.14
+[00:27:58] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[00:27:58] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[00:28:00] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[00:28:00] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[00:28:00] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[00:28:00] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
+[00:28:00] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.1
+[00:28:00] [Server thread/INFO]: [BetterRTP] Loading server plugin BetterRTP v3.6.13
+[00:28:00] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
+[00:28:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:28:00] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[00:28:00] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:28:00] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[00:28:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:28:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:28:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:28:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:28:00] [Server thread/INFO]: Preparing level "world"
+[00:28:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:28:01] [Server thread/INFO]: Time elapsed: 958 ms
+[00:28:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:28:02] [Server thread/INFO]: Time elapsed: 251 ms
+[00:28:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:28:02] [Server thread/INFO]: Time elapsed: 151 ms
+[00:28:02] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:28:03] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[00:28:03] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[00:28:03] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[00:28:03] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[00:28:03] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[00:28:03] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[00:28:03] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[00:28:03] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[00:28:03] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[00:28:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:28:04] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[00:28:04] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[00:28:05] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[00:28:05] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[00:28:05] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[00:28:05] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[00:28:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
+[00:28:05] [Server thread/INFO]: [AngelChest] No EconomyServiceProvider found, disabling economy functions.
+[00:28:05] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[00:28:05] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[00:28:05] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library examination-api
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
+[00:28:05] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
+[00:28:05] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.1
+[00:28:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
+[00:28:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [WARN]: Failed to load default economy provider with reason 'No supported economy provider for Vault detected, please install a plugin such as Essentials', trying to automatically find supported economy provider
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Detected Vault, initializing...
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [WARN]: ===================================================
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [WARN]:  
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [WARN]: Failed to automatically load an available economy provider, this plugin requires one, disabling...
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [WARN]: See a list of available economy providers on our wiki here: https://wiki.gpplugins.com/economyshopgui/file-configuration/config.yml#economy-provider
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [WARN]:  
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] [WARN]: ===================================================
+[00:28:06] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.1
+[00:28:06] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.6.13
+[00:28:06] [Server thread/INFO]: [BetterRTP] Cooldown = 600
+[00:28:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betterrtp [3.6.13]
+[00:28:06] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[00:28:06] [Server thread/INFO]: [spark] Starting background profiler...
+[00:28:06] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[00:28:07] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:28:07] [Server thread/INFO]: [Geyser-Spigot] 
+[00:28:07] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b735 (git-master-006fe75)
+[00:28:07] [Server thread/INFO]: [Geyser-Spigot] 
+[00:28:07] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:28:14] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2862
+[00:28:14] [Server thread/INFO]: [Geyser-Spigot] Done (7.71s)! Run /geyser help for help!
+[00:28:14] [Server thread/INFO]: Done preparing level "world" (14.406s)
+[00:28:14] [Server thread/INFO]: Running delayed init tasks
+[00:28:14] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[00:28:14] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:28:14] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[00:28:14] [Server thread/INFO]: Done (31.808s)! For help, type "help"
+[00:28:14] [Server thread/INFO]: Timings Reset
+[00:28:15] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
+[00:28:17] [Server thread/INFO]: [AngelChest] ========================================================
+[00:28:17] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[00:28:17] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[00:28:17] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[00:28:17] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[00:28:17] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[00:28:17] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[00:28:17] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[00:28:17] [Server thread/INFO]: [AngelChest] 
+[00:28:17] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[00:28:17] [Server thread/INFO]: [AngelChest] ========================================================
+[00:31:09] [Server thread/INFO]: Stopping the server
+[00:31:09] [Server thread/INFO]: Stopping server
+[00:31:09] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
+[00:31:09] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.0
+[00:31:09] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
+[00:31:09] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[00:31:09] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:31:09] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:31:09] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[00:31:09] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[00:31:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[00:31:09] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:31:09] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:31:09] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[00:31:09] [Server thread/INFO]: Saving players
+[00:31:09] [Server thread/INFO]: Saving worlds
+[00:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:31:09] [WebSocketConnectReadThread-99/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.20s
+[00:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
+[00:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:31:09] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
+[00:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
