@@ -10,15 +10,13 @@ Common:
   prefixes:
   - <b>[</b><color:#00ff51>teletransporte</color><b>]</b>
 Teleport:
-  eventBeforeTP: <prefix> <gray>Teletransportado  en <aqua><countdown> segundos</aqua>, no te muevas
+  eventBeforeTP: <prefix> <gray>Teletransportado  en <aqua><countdown> segundos</aqua>,
+    no te muevas
   # This is an example use for titles and subtitles in the plugin.
   # This feature is supported only if you're on version 1.8.8 or newer.
   eventBeforeTP_title:
-    # How many seconds (in ticks) the header should last. This is not including fading.
     length: 80
-    # How many seconds (in ticks) the header should take to fade in.
     fade-in: 0
-    # How many seconds (in ticks) the header should take to fade out.
     fade-out: 10
     '0': <gray><b>Teleportado...
     '20': <aqua>></aqua> <gray><b>Teleportado en...</b></gray> <aqua><
