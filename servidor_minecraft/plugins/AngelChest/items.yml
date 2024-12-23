@@ -42,7 +42,7 @@
 # Example: a poisonous potato seed to have an AngelChest spawned. Set "price" to "poisonous-potato-seed"
 # Can be crafted by cooking a poisonous potato in a smoker
 poisonous-potato-seed:
-  material: SUNFLOWER
+  material: stone
   display-name: "<#F1C40F>Poisonous Potato Seed<#/F7DC6F>"
   lore:
     - "<#d5dbdb>It's so poisonous, it protects"
