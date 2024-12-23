@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734966937898
+  login: 1734966905091
+money: '0'
+last-account-name: Spbstrome17
+logoutlocation:
+  world: a050e14d-7798-41cf-b61d-91e3b8d51847
+  world-name: world
+  x: 0.0
+  y: 88.0
+  z: 0.0
+  yaw: -30.55853271484375
+  pitch: 2.49456787109375
