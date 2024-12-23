@@ -9,7 +9,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -30,7 +30,7 @@ worlds:
     adjustSpawn: 'true'
     portalForm: ALL
     gameMode: SURVIVAL
-    keepSpawnInMemory: 'false'
+    keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
       x: 1.5
@@ -140,4 +140,3 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-    

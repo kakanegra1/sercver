@@ -1,636 +1,713 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734985263046 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734986575642 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LifEAAAAAQAAAAEAAAAAAAAAAKzjMT36zDmQ2ba5eBtav2dTWp_WUod8hk0oOkoByTiA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qi8OAAAAAQAAAAEAAAAAAAAAAGelJGQuBF_k02wghBJoCsoGDnlPlb-ht5KeBksSvRf9
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985266238 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986578813 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LifEAAAAAQAAAAEAAAAAAAAAAKzjMT36zDmQ2ba5eBtav2dTWp_WUod8hk0oOkoByTiA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qi8OAAAAAQAAAAEAAAAAAAAAAGelJGQuBF_k02wghBJoCsoGDnlPlb-ht5KeBksSvRf9
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985269340 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986581894 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LifEAAAAAQAAAAEAAAAAAAAAAKzjMT36zDmQ2ba5eBtav2dTWp_WUod8hk0oOkoByTiA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qi8OAAAAAQAAAAEAAAAAAAAAAGelJGQuBF_k02wghBJoCsoGDnlPlb-ht5KeBksSvRf9
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985272428 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986584981 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LifEAAAAAQAAAAEAAAAAAAAAAKzjMT36zDmQ2ba5eBtav2dTWp_WUod8hk0oOkoByTiA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qi8OAAAAAQAAAAEAAAAAAAAAAGelJGQuBF_k02wghBJoCsoGDnlPlb-ht5KeBksSvRf9
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985275568 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986588307 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LifEAAAAAQAAAAEAAAAAAAAAAKzjMT36zDmQ2ba5eBtav2dTWp_WUod8hk0oOkoByTiA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qi8OAAAAAQAAAAEAAAAAAAAAAGelJGQuBF_k02wghBJoCsoGDnlPlb-ht5KeBksSvRf9
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985278657 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986591427 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LmS1AAAAAQAAAAEAAAAAAAAAAP2gASa0UcST2iXLoeEnoP3Yf_NZlctI54X96uT3x7zj
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qmy7AAAAAQAAAAEAAAAAAAAAAIt1otxtbE3DJc3RRh-H3NihXwQlLnIIiQcU7TxLgk9O
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985281817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986594598 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LmS1AAAAAQAAAAEAAAAAAAAAAP2gASa0UcST2iXLoeEnoP3Yf_NZlctI54X96uT3x7zj
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qmy7AAAAAQAAAAEAAAAAAAAAAIt1otxtbE3DJc3RRh-H3NihXwQlLnIIiQcU7TxLgk9O
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985285008 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986597689 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LmS1AAAAAQAAAAEAAAAAAAAAAP2gASa0UcST2iXLoeEnoP3Yf_NZlctI54X96uT3x7zj
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qmy7AAAAAQAAAAEAAAAAAAAAAIt1otxtbE3DJc3RRh-H3NihXwQlLnIIiQcU7TxLgk9O
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985288088 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986600785 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LmS1AAAAAQAAAAEAAAAAAAAAAP2gASa0UcST2iXLoeEnoP3Yf_NZlctI54X96uT3x7zj
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qmy7AAAAAQAAAAEAAAAAAAAAAIt1otxtbE3DJc3RRh-H3NihXwQlLnIIiQcU7TxLgk9O
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985291178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986603876 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LmS1AAAAAQAAAAEAAAAAAAAAAP2gASa0UcST2iXLoeEnoP3Yf_NZlctI54X96uT3x7zj
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qmy7AAAAAQAAAAEAAAAAAAAAAIt1otxtbE3DJc3RRh-H3NihXwQlLnIIiQcU7TxLgk9O
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985294264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986607043 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LqG1AAAAAQAAAAEAAAAAAAAAACz9xne1Fm_DZiFbr2n6HHCy5tMalALkYB9H9z-mqCp0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qqm3AAAAAQAAAAEAAAAAAAAAABKFfgoFnG5GkgEqVTLFIuWJ-yJ6vjSvpeJY9GPFa8Ez
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985297454 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986610292 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LqG1AAAAAQAAAAEAAAAAAAAAACz9xne1Fm_DZiFbr2n6HHCy5tMalALkYB9H9z-mqCp0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qqm3AAAAAQAAAAEAAAAAAAAAABKFfgoFnG5GkgEqVTLFIuWJ-yJ6vjSvpeJY9GPFa8Ez
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985300544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986613379 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LqG1AAAAAQAAAAEAAAAAAAAAACz9xne1Fm_DZiFbr2n6HHCy5tMalALkYB9H9z-mqCp0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qqm3AAAAAQAAAAEAAAAAAAAAABKFfgoFnG5GkgEqVTLFIuWJ-yJ6vjSvpeJY9GPFa8Ez
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985303616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986616585 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LqG1AAAAAQAAAAEAAAAAAAAAACz9xne1Fm_DZiFbr2n6HHCy5tMalALkYB9H9z-mqCp0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qqm3AAAAAQAAAAEAAAAAAAAAABKFfgoFnG5GkgEqVTLFIuWJ-yJ6vjSvpeJY9GPFa8Ez
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985306708 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986619705 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LqG1AAAAAQAAAAEAAAAAAAAAACz9xne1Fm_DZiFbr2n6HHCy5tMalALkYB9H9z-mqCp0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qqm3AAAAAQAAAAEAAAAAAAAAABKFfgoFnG5GkgEqVTLFIuWJ-yJ6vjSvpeJY9GPFa8Ez
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985309789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986622794 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Lt5XAAAAAQAAAAEAAAAAAAAAAHeq2bGunEoi_J6b4TWgkdXIm_p6c3fJnlMT99rn9BaJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qud0AAAAAQAAAAEAAAAAAAAAAMyT2wBbblFsctVuZ-SZpkk4u_HPjDYVXaT5KWrMpS5i
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985312970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986626225 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Lt5XAAAAAQAAAAEAAAAAAAAAAHeq2bGunEoi_J6b4TWgkdXIm_p6c3fJnlMT99rn9BaJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qud0AAAAAQAAAAEAAAAAAAAAAMyT2wBbblFsctVuZ-SZpkk4u_HPjDYVXaT5KWrMpS5i
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985316050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986629339 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Lt5XAAAAAQAAAAEAAAAAAAAAAHeq2bGunEoi_J6b4TWgkdXIm_p6c3fJnlMT99rn9BaJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qud0AAAAAQAAAAEAAAAAAAAAAMyT2wBbblFsctVuZ-SZpkk4u_HPjDYVXaT5KWrMpS5i
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985319125 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986632454 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Lt5XAAAAAQAAAAEAAAAAAAAAAHeq2bGunEoi_J6b4TWgkdXIm_p6c3fJnlMT99rn9BaJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qud0AAAAAQAAAAEAAAAAAAAAAMyT2wBbblFsctVuZ-SZpkk4u_HPjDYVXaT5KWrMpS5i
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985322215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986635585 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Lt5XAAAAAQAAAAEAAAAAAAAAAHeq2bGunEoi_J6b4TWgkdXIm_p6c3fJnlMT99rn9BaJ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Qud0AAAAAQAAAAEAAAAAAAAAAMyT2wBbblFsctVuZ-SZpkk4u_HPjDYVXaT5KWrMpS5i
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985325302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986638663 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LxrzAAAAAQAAAAEAAAAAAAAAAEaa4HkoYgR0Q4YtpzmMt1g7smBXigWvfJcMzXBoRE7F
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1QyVNAAAAAQAAAAEAAAAAAAAAAAszd4WA5-c2t6bu3_T-GpBeqZ9ujNDbEMVuvpWlPLhA
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985328510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986641876 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LxrzAAAAAQAAAAEAAAAAAAAAAEaa4HkoYgR0Q4YtpzmMt1g7smBXigWvfJcMzXBoRE7F
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1QyVNAAAAAQAAAAEAAAAAAAAAAAszd4WA5-c2t6bu3_T-GpBeqZ9ujNDbEMVuvpWlPLhA
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985331597 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986644998 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LxrzAAAAAQAAAAEAAAAAAAAAAEaa4HkoYgR0Q4YtpzmMt1g7smBXigWvfJcMzXBoRE7F
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1QyVNAAAAAQAAAAEAAAAAAAAAAAszd4WA5-c2t6bu3_T-GpBeqZ9ujNDbEMVuvpWlPLhA
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985334688 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986648084 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LxrzAAAAAQAAAAEAAAAAAAAAAEaa4HkoYgR0Q4YtpzmMt1g7smBXigWvfJcMzXBoRE7F
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1QyVNAAAAAQAAAAEAAAAAAAAAAAszd4WA5-c2t6bu3_T-GpBeqZ9ujNDbEMVuvpWlPLhA
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985337769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986651342 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1LxrzAAAAAQAAAAEAAAAAAAAAAEaa4HkoYgR0Q4YtpzmMt1g7smBXigWvfJcMzXBoRE7F
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1QyVNAAAAAQAAAAEAAAAAAAAAAAszd4WA5-c2t6bu3_T-GpBeqZ9ujNDbEMVuvpWlPLhA
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985340863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986654469 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L1erAAAAAQAAAAEAAAAAAAAAAMY7oiTnGseIMGqrthruHE_a9PxpSXlTKAZpxvjd2_xn
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q2MHAAAAAQAAAAEAAAAAAAAAACHvhLNm3ooU9I0hxuiFpkumGG6cIJEy0leoKp9jxQG8
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985344007 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986657673 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L1erAAAAAQAAAAEAAAAAAAAAAMY7oiTnGseIMGqrthruHE_a9PxpSXlTKAZpxvjd2_xn
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q2MHAAAAAQAAAAEAAAAAAAAAACHvhLNm3ooU9I0hxuiFpkumGG6cIJEy0leoKp9jxQG8
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985347108 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986660745 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L1erAAAAAQAAAAEAAAAAAAAAAMY7oiTnGseIMGqrthruHE_a9PxpSXlTKAZpxvjd2_xn
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q2MHAAAAAQAAAAEAAAAAAAAAACHvhLNm3ooU9I0hxuiFpkumGG6cIJEy0leoKp9jxQG8
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985350199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986663877 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L1erAAAAAQAAAAEAAAAAAAAAAMY7oiTnGseIMGqrthruHE_a9PxpSXlTKAZpxvjd2_xn
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q2MHAAAAAQAAAAEAAAAAAAAAACHvhLNm3ooU9I0hxuiFpkumGG6cIJEy0leoKp9jxQG8
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985353291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986666989 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L1erAAAAAQAAAAEAAAAAAAAAAMY7oiTnGseIMGqrthruHE_a9PxpSXlTKAZpxvjd2_xn
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q2MHAAAAAQAAAAEAAAAAAAAAACHvhLNm3ooU9I0hxuiFpkumGG6cIJEy0leoKp9jxQG8
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985356609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986670093 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L5VdAAAAAQAAAAEAAAAAAAAAAGoRnMMru7TBdZBLkjj-PBxuP-LpPlKtDqQ9X3XEKmjG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q6AKAAAAAQAAAAEAAAAAAAAAAFclO8hXI1zg8cgkPOkLbdbnSGg7dQ7JM1zyOGlT35iE
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985359975 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986673289 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L5VdAAAAAQAAAAEAAAAAAAAAAGoRnMMru7TBdZBLkjj-PBxuP-LpPlKtDqQ9X3XEKmjG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q6AKAAAAAQAAAAEAAAAAAAAAAFclO8hXI1zg8cgkPOkLbdbnSGg7dQ7JM1zyOGlT35iE
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985363080 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986676431 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L5VdAAAAAQAAAAEAAAAAAAAAAGoRnMMru7TBdZBLkjj-PBxuP-LpPlKtDqQ9X3XEKmjG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q6AKAAAAAQAAAAEAAAAAAAAAAFclO8hXI1zg8cgkPOkLbdbnSGg7dQ7JM1zyOGlT35iE
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985366204 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986679528 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L5VdAAAAAQAAAAEAAAAAAAAAAGoRnMMru7TBdZBLkjj-PBxuP-LpPlKtDqQ9X3XEKmjG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q6AKAAAAAQAAAAEAAAAAAAAAAFclO8hXI1zg8cgkPOkLbdbnSGg7dQ7JM1zyOGlT35iE
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985369278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986682627 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L5VdAAAAAQAAAAEAAAAAAAAAAGoRnMMru7TBdZBLkjj-PBxuP-LpPlKtDqQ9X3XEKmjG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q6AKAAAAAQAAAAEAAAAAAAAAAFclO8hXI1zg8cgkPOkLbdbnSGg7dQ7JM1zyOGlT35iE
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985372377 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986685732 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L9LbAAAAAQAAAAEAAAAAAAAAANNSYMjxgIUyA5wQO6h7S8y-RaoLtmVDPMVJwzdYcJua
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q90ZAAAAAQAAAAEAAAAAAAAAABr6HFCiucusOjitCCZR9T9zJTiWpvtAIdvL59nZR_OP
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985375560 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986688900 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L9LbAAAAAQAAAAEAAAAAAAAAANNSYMjxgIUyA5wQO6h7S8y-RaoLtmVDPMVJwzdYcJua
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q90ZAAAAAQAAAAEAAAAAAAAAABr6HFCiucusOjitCCZR9T9zJTiWpvtAIdvL59nZR_OP
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985378721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986691988 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L9LbAAAAAQAAAAEAAAAAAAAAANNSYMjxgIUyA5wQO6h7S8y-RaoLtmVDPMVJwzdYcJua
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q90ZAAAAAQAAAAEAAAAAAAAAABr6HFCiucusOjitCCZR9T9zJTiWpvtAIdvL59nZR_OP
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985381801 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986695105 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L9LbAAAAAQAAAAEAAAAAAAAAANNSYMjxgIUyA5wQO6h7S8y-RaoLtmVDPMVJwzdYcJua
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q90ZAAAAAQAAAAEAAAAAAAAAABr6HFCiucusOjitCCZR9T9zJTiWpvtAIdvL59nZR_OP
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985384874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986698192 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1L9LbAAAAAQAAAAEAAAAAAAAAANNSYMjxgIUyA5wQO6h7S8y-RaoLtmVDPMVJwzdYcJua
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Q90ZAAAAAQAAAAEAAAAAAAAAABr6HFCiucusOjitCCZR9T9zJTiWpvtAIdvL59nZR_OP
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985388098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986701282 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MBApAAAAAQAAAAEAAAAAAAAAAG86cv59p6M13mhwhf-Oe785sgJiEq9hnj-OM5wxNeIr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RBnWAAAAAQAAAAEAAAAAAAAAAIAVbmRhnFjH0-xyulX0E-LAU22hLUjYLanUnMCzZMI4
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985391238 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986704480 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MBApAAAAAQAAAAEAAAAAAAAAAG86cv59p6M13mhwhf-Oe785sgJiEq9hnj-OM5wxNeIr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RBnWAAAAAQAAAAEAAAAAAAAAAIAVbmRhnFjH0-xyulX0E-LAU22hLUjYLanUnMCzZMI4
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985394382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986707618 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MBApAAAAAQAAAAEAAAAAAAAAAG86cv59p6M13mhwhf-Oe785sgJiEq9hnj-OM5wxNeIr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RBnWAAAAAQAAAAEAAAAAAAAAAIAVbmRhnFjH0-xyulX0E-LAU22hLUjYLanUnMCzZMI4
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985397491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986710723 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MBApAAAAAQAAAAEAAAAAAAAAAG86cv59p6M13mhwhf-Oe785sgJiEq9hnj-OM5wxNeIr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RBnWAAAAAQAAAAEAAAAAAAAAAIAVbmRhnFjH0-xyulX0E-LAU22hLUjYLanUnMCzZMI4
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985400615 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986713808 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MBApAAAAAQAAAAEAAAAAAAAAAG86cv59p6M13mhwhf-Oe785sgJiEq9hnj-OM5wxNeIr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RBnWAAAAAQAAAAEAAAAAAAAAAIAVbmRhnFjH0-xyulX0E-LAU22hLUjYLanUnMCzZMI4
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985403744 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986716980 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1ME12AAAAAQAAAAEAAAAAAAAAAB9Fua_spGQ33s0mUMvMxm_H4AWa0_yl94vkshGjT3eH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RFccAAAAAQAAAAEAAAAAAAAAAPNfVHgzI9gTuGod7tLdcxNvcJZe4xWQ0awPGwl3waIS
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985406937 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986720159 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1ME12AAAAAQAAAAEAAAAAAAAAAB9Fua_spGQ33s0mUMvMxm_H4AWa0_yl94vkshGjT3eH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RFccAAAAAQAAAAEAAAAAAAAAAPNfVHgzI9gTuGod7tLdcxNvcJZe4xWQ0awPGwl3waIS
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985410023 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986723232 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1ME12AAAAAQAAAAEAAAAAAAAAAB9Fua_spGQ33s0mUMvMxm_H4AWa0_yl94vkshGjT3eH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RFccAAAAAQAAAAEAAAAAAAAAAPNfVHgzI9gTuGod7tLdcxNvcJZe4xWQ0awPGwl3waIS
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985413092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986726302 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1ME12AAAAAQAAAAEAAAAAAAAAAB9Fua_spGQ33s0mUMvMxm_H4AWa0_yl94vkshGjT3eH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RFccAAAAAQAAAAEAAAAAAAAAAPNfVHgzI9gTuGod7tLdcxNvcJZe4xWQ0awPGwl3waIS
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985416212 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986729419 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1ME12AAAAAQAAAAEAAAAAAAAAAB9Fua_spGQ33s0mUMvMxm_H4AWa0_yl94vkshGjT3eH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RFccAAAAAQAAAAEAAAAAAAAAAPNfVHgzI9gTuGod7tLdcxNvcJZe4xWQ0awPGwl3waIS
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985419366 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986732489 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MIqMAAAAAQAAAAEAAAAAAAAAAAEVH4oZg0CC8Uunocvoy8TEiYe_TbaNS93zIbyYMz3o
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RJO1AAAAAQAAAAEAAAAAAAAAAA2dQ_WKXKAYFrF54s8L--gB_yzZ6rJFxlJ-XG1OcdHt
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985422617 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986735681 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MIqMAAAAAQAAAAEAAAAAAAAAAAEVH4oZg0CC8Uunocvoy8TEiYe_TbaNS93zIbyYMz3o
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RJO1AAAAAQAAAAEAAAAAAAAAAA2dQ_WKXKAYFrF54s8L--gB_yzZ6rJFxlJ-XG1OcdHt
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985425757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986738759 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MIqMAAAAAQAAAAEAAAAAAAAAAAEVH4oZg0CC8Uunocvoy8TEiYe_TbaNS93zIbyYMz3o
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RJO1AAAAAQAAAAEAAAAAAAAAAA2dQ_WKXKAYFrF54s8L--gB_yzZ6rJFxlJ-XG1OcdHt
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985428831 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986741849 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MIqMAAAAAQAAAAEAAAAAAAAAAAEVH4oZg0CC8Uunocvoy8TEiYe_TbaNS93zIbyYMz3o
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RJO1AAAAAQAAAAEAAAAAAAAAAA2dQ_WKXKAYFrF54s8L--gB_yzZ6rJFxlJ-XG1OcdHt
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985431968 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986744920 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MIqMAAAAAQAAAAEAAAAAAAAAAAEVH4oZg0CC8Uunocvoy8TEiYe_TbaNS93zIbyYMz3o
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RJO1AAAAAQAAAAEAAAAAAAAAAA2dQ_WKXKAYFrF54s8L--gB_yzZ6rJFxlJ-XG1OcdHt
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985435198 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986747996 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MMiLAAAAAQAAAAEAAAAAAAAAAJbcFmypBzLeuvfnlfNuyKE2xhb0V2TLD-WUxle1B9Fx
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RNENAAAAAQAAAAEAAAAAAAAAAKM7vMMy71CbwPJYygMPPtakPBCNqJ3-j47umzI2vQkY
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985438527 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986751522 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MMiLAAAAAQAAAAEAAAAAAAAAAJbcFmypBzLeuvfnlfNuyKE2xhb0V2TLD-WUxle1B9Fx
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RNENAAAAAQAAAAEAAAAAAAAAAKM7vMMy71CbwPJYygMPPtakPBCNqJ3-j47umzI2vQkY
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985441633 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986754622 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MMiLAAAAAQAAAAEAAAAAAAAAAJbcFmypBzLeuvfnlfNuyKE2xhb0V2TLD-WUxle1B9Fx
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RNENAAAAAQAAAAEAAAAAAAAAAKM7vMMy71CbwPJYygMPPtakPBCNqJ3-j47umzI2vQkY
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985444845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986757731 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MMiLAAAAAQAAAAEAAAAAAAAAAJbcFmypBzLeuvfnlfNuyKE2xhb0V2TLD-WUxle1B9Fx
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RNENAAAAAQAAAAEAAAAAAAAAAKM7vMMy71CbwPJYygMPPtakPBCNqJ3-j47umzI2vQkY
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985447955 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986760840 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MMiLAAAAAQAAAAEAAAAAAAAAAJbcFmypBzLeuvfnlfNuyKE2xhb0V2TLD-WUxle1B9Fx
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RNENAAAAAQAAAAEAAAAAAAAAAKM7vMMy71CbwPJYygMPPtakPBCNqJ3-j47umzI2vQkY
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985451062 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986764069 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MQYjAAAAAQAAAAEAAAAAAAAAAHqNvj3zez6yO9bi1ty0bFp7dQ7Alexv2mg1PO50pNnH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RQ_CAAAAAQAAAAEAAAAAAAAAAH-zUkkYjXQNvlFyKN5faRwFVGI4TUiygN-hWw-mZnrB
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985454222 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986767487 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MQYjAAAAAQAAAAEAAAAAAAAAAHqNvj3zez6yO9bi1ty0bFp7dQ7Alexv2mg1PO50pNnH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RQ_CAAAAAQAAAAEAAAAAAAAAAH-zUkkYjXQNvlFyKN5faRwFVGI4TUiygN-hWw-mZnrB
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985457335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986770601 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MQYjAAAAAQAAAAEAAAAAAAAAAHqNvj3zez6yO9bi1ty0bFp7dQ7Alexv2mg1PO50pNnH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RQ_CAAAAAQAAAAEAAAAAAAAAAH-zUkkYjXQNvlFyKN5faRwFVGI4TUiygN-hWw-mZnrB
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985460453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986773710 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MQYjAAAAAQAAAAEAAAAAAAAAAHqNvj3zez6yO9bi1ty0bFp7dQ7Alexv2mg1PO50pNnH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RQ_CAAAAAQAAAAEAAAAAAAAAAH-zUkkYjXQNvlFyKN5faRwFVGI4TUiygN-hWw-mZnrB
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985463570 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986776975 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MQYjAAAAAQAAAAEAAAAAAAAAAHqNvj3zez6yO9bi1ty0bFp7dQ7Alexv2mg1PO50pNnH
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RQ_CAAAAAQAAAAEAAAAAAAAAAH-zUkkYjXQNvlFyKN5faRwFVGI4TUiygN-hWw-mZnrB
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985466717 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986780045 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MUNOAAAAAQAAAAEAAAAAAAAAAObL0dsvSoqa4o4NHeyJkOQt0oGkxWLuAgXt5U1ftPZ6
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RU26AAAAAQAAAAEAAAAAAAAAACjw-24uRXpfd57KEOOjsQGj8_TeSQTD5udaCk5glkoX
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985469957 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986783289 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MUNOAAAAAQAAAAEAAAAAAAAAAObL0dsvSoqa4o4NHeyJkOQt0oGkxWLuAgXt5U1ftPZ6
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RU26AAAAAQAAAAEAAAAAAAAAACjw-24uRXpfd57KEOOjsQGj8_TeSQTD5udaCk5glkoX
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985473068 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986786573 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MUNOAAAAAQAAAAEAAAAAAAAAAObL0dsvSoqa4o4NHeyJkOQt0oGkxWLuAgXt5U1ftPZ6
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RU26AAAAAQAAAAEAAAAAAAAAACjw-24uRXpfd57KEOOjsQGj8_TeSQTD5udaCk5glkoX
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985476175 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986789683 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MUNOAAAAAQAAAAEAAAAAAAAAAObL0dsvSoqa4o4NHeyJkOQt0oGkxWLuAgXt5U1ftPZ6
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RU26AAAAAQAAAAEAAAAAAAAAACjw-24uRXpfd57KEOOjsQGj8_TeSQTD5udaCk5glkoX
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985479305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986792777 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MUNOAAAAAQAAAAEAAAAAAAAAAObL0dsvSoqa4o4NHeyJkOQt0oGkxWLuAgXt5U1ftPZ6
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RU26AAAAAQAAAAEAAAAAAAAAACjw-24uRXpfd57KEOOjsQGj8_TeSQTD5udaCk5glkoX
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985482391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986795930 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MYCQAAAAAQAAAAEAAAAAAAAAAFBR4vwUNysn8uBv68V2KbYq-AKRqZPL_M3xfX1ZrQja
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RYuOAAAAAQAAAAEAAAAAAAAAAOYOhmPcBQ7BlB5-XK4cWYTbdTwVPACRuiMlJMjNEs6t
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985485600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986799097 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MYCQAAAAAQAAAAEAAAAAAAAAAFBR4vwUNysn8uBv68V2KbYq-AKRqZPL_M3xfX1ZrQja
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RYuOAAAAAQAAAAEAAAAAAAAAAOYOhmPcBQ7BlB5-XK4cWYTbdTwVPACRuiMlJMjNEs6t
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985488691 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986802274 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MYCQAAAAAQAAAAEAAAAAAAAAAFBR4vwUNysn8uBv68V2KbYq-AKRqZPL_M3xfX1ZrQja
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RYuOAAAAAQAAAAEAAAAAAAAAAOYOhmPcBQ7BlB5-XK4cWYTbdTwVPACRuiMlJMjNEs6t
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985491782 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986805344 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MYCQAAAAAQAAAAEAAAAAAAAAAFBR4vwUNysn8uBv68V2KbYq-AKRqZPL_M3xfX1ZrQja
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RYuOAAAAAQAAAAEAAAAAAAAAAOYOhmPcBQ7BlB5-XK4cWYTbdTwVPACRuiMlJMjNEs6t
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985495149 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986808556 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MYCQAAAAAQAAAAEAAAAAAAAAAFBR4vwUNysn8uBv68V2KbYq-AKRqZPL_M3xfX1ZrQja
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RYuOAAAAAQAAAAEAAAAAAAAAAOYOhmPcBQ7BlB5-XK4cWYTbdTwVPACRuiMlJMjNEs6t
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985498244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986811652 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mb5wAAAAAQAAAAEAAAAAAAAAAFcczDvzivpr2nUFhUCXd0LJGro2ptro-9lh0dGGpDGG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Rcj4AAAAAQAAAAEAAAAAAAAAAP8xuuJkx8wwq8-Ve6Vi9s6PhzRbkRYGHqxI7E_OGt9s
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985501401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986814839 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mb5wAAAAAQAAAAEAAAAAAAAAAFcczDvzivpr2nUFhUCXd0LJGro2ptro-9lh0dGGpDGG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Rcj4AAAAAQAAAAEAAAAAAAAAAP8xuuJkx8wwq8-Ve6Vi9s6PhzRbkRYGHqxI7E_OGt9s
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985504485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986817916 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mb5wAAAAAQAAAAEAAAAAAAAAAFcczDvzivpr2nUFhUCXd0LJGro2ptro-9lh0dGGpDGG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Rcj4AAAAAQAAAAEAAAAAAAAAAP8xuuJkx8wwq8-Ve6Vi9s6PhzRbkRYGHqxI7E_OGt9s
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985507603 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986821021 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mb5wAAAAAQAAAAEAAAAAAAAAAFcczDvzivpr2nUFhUCXd0LJGro2ptro-9lh0dGGpDGG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Rcj4AAAAAQAAAAEAAAAAAAAAAP8xuuJkx8wwq8-Ve6Vi9s6PhzRbkRYGHqxI7E_OGt9s
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985510687 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986824215 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mb5wAAAAAQAAAAEAAAAAAAAAAFcczDvzivpr2nUFhUCXd0LJGro2ptro-9lh0dGGpDGG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Rcj4AAAAAQAAAAEAAAAAAAAAAP8xuuJkx8wwq8-Ve6Vi9s6PhzRbkRYGHqxI7E_OGt9s
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985513794 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986827335 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MftaAAAAAQAAAAEAAAAAAAAAABHeUgRGicFKr9uo3UdWAzxpIWdF3-0rTMQ8y6WHQKbg
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RgYyAAAAAQAAAAEAAAAAAAAAADweCdgqwfDpnqWb_5wxg7vkVqRNBHhMd7HbmBjG-8UN
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985516985 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986830482 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MftaAAAAAQAAAAEAAAAAAAAAABHeUgRGicFKr9uo3UdWAzxpIWdF3-0rTMQ8y6WHQKbg
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RgYyAAAAAQAAAAEAAAAAAAAAADweCdgqwfDpnqWb_5wxg7vkVqRNBHhMd7HbmBjG-8UN
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985520097 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986833570 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MftaAAAAAQAAAAEAAAAAAAAAABHeUgRGicFKr9uo3UdWAzxpIWdF3-0rTMQ8y6WHQKbg
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RgYyAAAAAQAAAAEAAAAAAAAAADweCdgqwfDpnqWb_5wxg7vkVqRNBHhMd7HbmBjG-8UN
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985523184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986836658 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MftaAAAAAQAAAAEAAAAAAAAAABHeUgRGicFKr9uo3UdWAzxpIWdF3-0rTMQ8y6WHQKbg
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RgYyAAAAAQAAAAEAAAAAAAAAADweCdgqwfDpnqWb_5wxg7vkVqRNBHhMd7HbmBjG-8UN
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985526280 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986839759 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MftaAAAAAQAAAAEAAAAAAAAAABHeUgRGicFKr9uo3UdWAzxpIWdF3-0rTMQ8y6WHQKbg
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RgYyAAAAAQAAAAEAAAAAAAAAADweCdgqwfDpnqWb_5wxg7vkVqRNBHhMd7HbmBjG-8UN
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985529366 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986842856 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mjf_AAAAAQAAAAEAAAAAAAAAAE8RLuk5kEbrsuk5L2mRb1kENiwyFAEct4SRvtzmbED9
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RkLdAAAAAQAAAAEAAAAAAAAAAHamMJUUTtvI1f9WjzY4ciR2gTv9FwJIBLLfGz7zY4Mu
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985532523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986846039 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mjf_AAAAAQAAAAEAAAAAAAAAAE8RLuk5kEbrsuk5L2mRb1kENiwyFAEct4SRvtzmbED9
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RkLdAAAAAQAAAAEAAAAAAAAAAHamMJUUTtvI1f9WjzY4ciR2gTv9FwJIBLLfGz7zY4Mu
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985535599 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986849703 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mjf_AAAAAQAAAAEAAAAAAAAAAE8RLuk5kEbrsuk5L2mRb1kENiwyFAEct4SRvtzmbED9
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RkLdAAAAAQAAAAEAAAAAAAAAAHamMJUUTtvI1f9WjzY4ciR2gTv9FwJIBLLfGz7zY4Mu
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985538721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986852803 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mjf_AAAAAQAAAAEAAAAAAAAAAE8RLuk5kEbrsuk5L2mRb1kENiwyFAEct4SRvtzmbED9
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RkLdAAAAAQAAAAEAAAAAAAAAAHamMJUUTtvI1f9WjzY4ciR2gTv9FwJIBLLfGz7zY4Mu
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985541844 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986855907 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Mjf_AAAAAQAAAAEAAAAAAAAAAE8RLuk5kEbrsuk5L2mRb1kENiwyFAEct4SRvtzmbED9
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RkLdAAAAAQAAAAEAAAAAAAAAAHamMJUUTtvI1f9WjzY4ciR2gTv9FwJIBLLfGz7zY4Mu
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
 proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734985544965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734986859000 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1MnTtAAAAAQAAAAEAAAAAAAAAAFRCe4fZU9QNIbdEaxSARLI_mpyk4O6RBCI6jDBW5YQo
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RoH0AAAAAQAAAAEAAAAAAAAAABKtDJ9z_-wbMsubDDEqyCgozNRFkc8LLD9Gnb9XVNTg
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986862188 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RoH0AAAAAQAAAAEAAAAAAAAAABKtDJ9z_-wbMsubDDEqyCgozNRFkc8LLD9Gnb9XVNTg
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986865374 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RoH0AAAAAQAAAAEAAAAAAAAAABKtDJ9z_-wbMsubDDEqyCgozNRFkc8LLD9Gnb9XVNTg
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986868587 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RoH0AAAAAQAAAAEAAAAAAAAAABKtDJ9z_-wbMsubDDEqyCgozNRFkc8LLD9Gnb9XVNTg
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986871904 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RoH0AAAAAQAAAAEAAAAAAAAAABKtDJ9z_-wbMsubDDEqyCgozNRFkc8LLD9Gnb9XVNTg
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986875000 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RsBfAAAAAQAAAAEAAAAAAAAAAKr2aCCLI8Eqh6tgEdRhsurSmiezOt99KDU58G1B9qHm
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986878170 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RsBfAAAAAQAAAAEAAAAAAAAAAKr2aCCLI8Eqh6tgEdRhsurSmiezOt99KDU58G1B9qHm
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986881269 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RsBfAAAAAQAAAAEAAAAAAAAAAKr2aCCLI8Eqh6tgEdRhsurSmiezOt99KDU58G1B9qHm
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986884364 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RsBfAAAAAQAAAAEAAAAAAAAAAKr2aCCLI8Eqh6tgEdRhsurSmiezOt99KDU58G1B9qHm
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986887485 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1RsBfAAAAAQAAAAEAAAAAAAAAAKr2aCCLI8Eqh6tgEdRhsurSmiezOt99KDU58G1B9qHm
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986890571 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Rv00AAAAAQAAAAEAAAAAAAAAAI3uZVYI5u9QDarbt0US45ZutH7RQibwqRWBiLtTcPLO
+
+TUNNELS
+sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
+proposed-plan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734986893730 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA5_RQAAAZP1Rv00AAAAAQAAAAEAAAAAAAAAAI3uZVYI5u9QDarbt0US45ZutH7RQibwqRWBiLtTcPLO
 
 TUNNELS
 sent-nevada.gl.at.ply.gg:2862 => 127.0.0.1:2862 (minecraft-bedrock)
