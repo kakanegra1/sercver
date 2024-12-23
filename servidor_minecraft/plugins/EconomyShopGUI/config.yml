@@ -41,7 +41,7 @@ config-version: 2.0.1.1
 #----------------------------------------------Language-------------------------------------------------
 
 # Here you can change the language of the plugin.
-language-file: lang-en.yml
+language-file: lang-es.yml
 
 # See this link for all available language files: https://gpplugins.gitbook.io/economyshopgui/file-configuration/languages#currently-supported-languages
 
@@ -95,7 +95,7 @@ use-nms: true
 #---------------------------------------------Transactions----------------------------------------------
 
 # Whether transactions should be logged to a text file
-transaction-log: true
+transaction-log: false
 
 
 #-----------------------------------------------ShopStand-----------------------------------------------
@@ -111,7 +111,7 @@ shop-stands: false
 
 # The setting below enables or disables the disabled commands inside certain worlds feature
 # When this option is true, the commands that are added to the world inside the list below will be disabled
-enable-disabled-worlds: false
+enable-disabled-worlds: true
 
 # List of commands with disabled worlds
 # Each command has its own list of worlds that will be disabled.
@@ -121,9 +121,10 @@ disabled-worlds-per-command:
 
   shop:
   - 'testbuilding'
+  - 'spawn'
 
   sellall:
-  - 'randompvp'
+  - 'spawn'
 
   editshop:
   - 'boss-fights'
@@ -306,7 +307,7 @@ main-menu:
   fill-item:
     material: GRAY_STAINED_GLASS_PANE
     name: ' '
-    enable: true
+    enable: false
 
 # Assign custom click actions when clicking a shop item
 # Possible actions: BUY, SELL, SELL_ALL, GUI_EDITOR

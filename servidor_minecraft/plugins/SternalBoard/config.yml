@@ -30,11 +30,10 @@ settings:
       - ''
       - '&f●☯&7Nick: &b%player_name%'
       - '&f●☪&7Rank: &b%luckperms_prefix%'
+      
       - '&f●⛃&7Coins: &e%vault_eco_balance%'
       - ''
-      - '&a&l▼ &3Inf adicional:'
-      - '&f● &7Mundo: &b#1'
-      - '&f● &7Ping: &b%player_ping%'
+
 
 
   #Option to disable some scoreboards from worlds
