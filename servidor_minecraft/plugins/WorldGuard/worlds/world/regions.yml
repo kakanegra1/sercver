@@ -16,7 +16,7 @@ regions:
         members: {}
         flags: {other-explosion: deny, deny-message: '', wither-damage: deny, creeper-explosion: deny,
             lava-fire: deny, build: deny, mob-damage: deny, enderman-grief: deny,
-            pistons: deny, pvp: deny, mob-spawning: deny, fire-spread: deny}
+            pistons: deny, pvp: deny, fire-spread: deny}
         owners: {}
         type: cuboid
         priority: 0
